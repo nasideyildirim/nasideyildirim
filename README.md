@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-## I work at a corporate Domain/Hosting company 💻
-## I'm a student in UpSchool 👨‍🎓 Frontend Developer 🚀
+## I work at a corporate Domain/Hosting company 💻 <br />
+## I'm a student in UpSchool 👨‍🎓 Frontend Developer 🚀 <br />
 - 🌱 I’m currently learning 😂
 
 
