@@ -4,7 +4,7 @@
 
 ## I'm a Student in UpSchool 👨‍🎓, Frontend Developer 🚀
 - 🌱 I’m currently learning 😂
-- ⚡ Fun fact: I love to swim 🏊‍♀️, play chess ♟, play basketball 🏀 and cycling 🚴‍♀️
+
 
 
 ## ⏲ What we are doing now:
