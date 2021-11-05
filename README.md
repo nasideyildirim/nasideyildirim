@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**nasideyildirim/nasideyildirim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-Here are some ideas to get you started:
+## I'm a Student in UpSchool 👨‍🎓, Frontend Developer 🚀
+- 🌱 I’m currently learning 😂
+- ⚡ Fun fact: I love to swim 🏊‍♀️, play chess ♟, play basketball 🏀 and cycling 🚴‍♀️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## ⏲ What we are doing now:
+I work at a corporate Domain/Hosting company. 🚀
+I am also a Frontend Developer student on the UpSchool platform. 💻.
+
+
+<br />
