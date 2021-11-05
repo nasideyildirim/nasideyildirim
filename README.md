@@ -13,11 +13,13 @@ I am also a Frontend Developer student on the UpSchool platform. 💻.
 
 
 <br />
-<br />
 
 ### 📩 Connect with me:
 
-https://www.linkedin.com/in/naside-yildirim/
-
+* https://www.linkedin.com/in/naside-yildirim/
+* https://twitter.com/up___grade
 
 <br />
+
+🛠 Tech Stack
+💻 HTML | CSS | JavaScript | C# | C | SQL | ASP.Net Mvc
