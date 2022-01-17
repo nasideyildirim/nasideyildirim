@@ -23,3 +23,5 @@ I am also a Frontend Developer student on the UpSchool platform. 💻
 
 🛠 Tech Stack
 💻 HTML | CSS | JavaScript | C# | C | SQL | ASP.Net Mvc
+
+![snake gif](https://github.com/nasideyildirim/nasideyildirim/blob/output/github-contribution-grid-snake.gif)
