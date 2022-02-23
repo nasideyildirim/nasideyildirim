@@ -17,7 +17,7 @@ I am also a Frontend Developer student on the UpSchool platform. 💻
 ### 📩 Connect with me:
 
 * https://www.linkedin.com/in/naside-yildirim/
-* https://twitter.com/up___grade
+
 
 <br />
 
