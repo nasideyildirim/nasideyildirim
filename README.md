@@ -2,10 +2,10 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-#### I'm a Computer Engineer 💻 I graduated from Karadeniz Technical University 👨‍🎓 <br />
-#### I work at a corporate Domain/Hosting company 💻 <br />
-#### I'm a Frontend Developer 🚀  I graduated from UP School 👨‍🎓 <br />
-#### 🌱 I continue to learn. 😂
+ - I'm a Computer Engineer 💻 I graduated from Karadeniz Technical University 👨‍🎓 <br />
+ - I'm a Frontend Developer 🚀  I graduated from UP School 👨‍🎓 <br />
+ - I work at a corporate Domain/Hosting company 💻 <br />
+ - 🌱 👀 I continue to learn..
 
 
 
@@ -14,9 +14,8 @@
 
 
 
-<br />
 
-## 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Tech Stack
 ---------------------------------------------------
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
