@@ -16,6 +16,7 @@
 
 
 ## 🛠 &nbsp;Tech Stack
+<br />
 
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -26,8 +27,10 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
+<br />
 
 ## 📩 Connect With Me
+<br />
 
 
 <a href="https://www.linkedin.com/in/naside-yildirim/"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
