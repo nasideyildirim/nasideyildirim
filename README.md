@@ -1,17 +1,19 @@
-## Hi there 👋
+## Hello 👋
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<p align="center">
+<img alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="280" />
+ <p/>
+ <br />
+ 
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Balsamiq+Sans&color=%61A439D9&duration=4000&height=70&lines=Hey!+I'm+Naşide;I'm+a+Frontend+Developer🚀💻)](https://git.io/typing-svg)
+ <br />
 
  - I'm a Computer Engineer 💻 I graduated from Karadeniz Technical University 👨‍🎓 <br />
  - I'm a Frontend Developer 🚀  I graduated from UP School 👨‍🎓 <br />
  - I work at a corporate Domain/Hosting company 💻 <br />
  - 🌱 👀 I continue to learn..
 
-
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Balsamiq+Sans&color=%61A439D9&duration=4000&height=70&lines=Hey!+I'm+Naşide;I'm+a+Frontend+Developer🚀💻)](https://git.io/typing-svg)
-
+<br />
 
 
 
